@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+FreeRTOS/demos/include/aws_clientcredential.h
+FreeRTOS/demos/include/aws_clientcredential_keys.h
